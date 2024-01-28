@@ -1,0 +1,1 @@
+Mi objetivo de análisis fue ver una relación de dependencia de algunas de las variables del modelo en la frecuencia de reserva de las propiedades con más de 2 años de antiguedad. (Para ello filtre toda la página a los datos de "Host Since" anteriores al inicio de 2015. 
